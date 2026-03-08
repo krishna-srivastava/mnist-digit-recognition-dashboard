@@ -54,7 +54,7 @@ streamlit run app.py
 ```
 
 ## App Preview:
-![App Screenshot](app_screenshot.png)
+![MNIST Digit Recognition Dashboard](mnist-digit-recognizer/app_screenshot.png)
 
 ## Goal of the Project:
 The goal of this project is to demonstrate how deep learning models can be integrated with interactive web applications to create real-time AI tools.
