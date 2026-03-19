@@ -15,7 +15,6 @@ The model is trained on the **MNIST dataset** and allows users to draw digits di
 - Clear canvas and reset app functionality
 
 ## Tech Stack
-
 - Python
 - TensorFlow / Keras
 - OpenCV
